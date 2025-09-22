@@ -20,12 +20,13 @@ export function HeroSection() {
             <div className="space-y-4">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-balance">
                 {"Hi, I'm "}
-                <span className="text-primary">Sarah Johnson</span>
+                <span className="text-primary">Jiya Chachan</span>
               </h1>
-              <h2 className="text-xl sm:text-2xl text-muted-foreground font-medium">Web Developer & Designer</h2>
+              <h2 className="text-xl sm:text-2xl text-muted-foreground font-medium">Data Scientist</h2>
               <p className="text-lg text-muted-foreground leading-relaxed max-w-lg">
-                I create beautiful, functional websites that help businesses grow. With a passion for clean code and
-                stunning design, I bring ideas to life through thoughtful user experiences.
+                I transform complex data into actionable insights that drive business decisions. With expertise in
+                machine learning, statistical analysis, and data visualization, I help organizations unlock the power of
+                their data.
               </p>
             </div>
 
@@ -49,8 +50,8 @@ export function HeroSection() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-2xl">
                 <Image
-                  src="/placeholder-fixh9.png"
-                  alt="Sarah Johnson - Professional Photo"
+                  src="/data-scientist-headshot.png"
+                  alt="Jiya Chachan - Professional Photo"
                   width={320}
                   height={320}
                   className="w-full h-full object-cover"
