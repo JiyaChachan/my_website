@@ -21,7 +21,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo/Name */}
           <div className="flex-shrink-0">
-            <h1 className="text-xl font-bold text-primary">Sarah Johnson</h1>
+            <h1 className="text-xl font-bold text-primary">Jiya Chachan</h1>
           </div>
 
           {/* Desktop Navigation */}
